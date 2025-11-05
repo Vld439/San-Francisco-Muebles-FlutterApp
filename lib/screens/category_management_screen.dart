@@ -45,7 +45,7 @@ class CategoryManagementScreen extends StatelessWidget {
                   if (categoryController.text.isNotEmpty) {
                     if (isEditing) {
                       // Actualiza nombre de categoría existente
-                      firestoreService.updateCategory(
+                        firestoreService.updateCategory(
                         category.id,
                         categoryController.text,
                       );
