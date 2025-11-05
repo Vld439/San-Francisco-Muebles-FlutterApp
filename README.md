@@ -63,9 +63,10 @@ App móvil construida en **Flutter** que permite navegar por categorías de prod
 - Subida de imágenes de productos: https://gemini.google.com/share/eb7217403f76
 - Generar un APK de release para Android: https://gemini.google.com/share/297777137132
 
----
+-----
 
 ## Referencias
+
 - Inspiración inicial:
 http://galeria.antoniogarciavillaran.es/
 https://juegosdigitalesparaguay.com/comprar
